@@ -1,6 +1,7 @@
 /* Obliczyć ilość cyfr x (1,2,...) występujących w danej liczbie */
 
 #include <stdio.h>
+#include <math.h>
 
 int main() {
 	// wprowadzana liczba
